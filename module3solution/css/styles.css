@@ -1,0 +1,44 @@
+body {
+	background-color: rgb(8, 17, 45);
+	text-decoration: none;
+	
+}
+#header-nav {
+	background-color: rgb(101, 120, 133);
+	border-radius: 0;
+	border: 0;
+
+	
+
+}
+.navbar a{
+	color: rgb(255, 244, 233);
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 30px;
+
+}
+.navbar-header a:hover, .navbar-header a:focus{
+	text-decoration: none;
+}
+.navbar-toggler-icon{
+	stroke: rgb(195, 162, 158);
+}
+
+h1{
+	color: white;
+}
+.container{
+
+
+}
+.col-xl-12{
+	background: rgb(101, 120, 133);
+	margin-top: 50px;
+	border: 10px solid black;
+
+}
+p, div{
+	font-size: 20px;
+}
+
